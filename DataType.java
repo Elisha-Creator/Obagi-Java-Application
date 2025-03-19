@@ -15,7 +15,7 @@ public class DataType{
 		
 		//float-point numbers(float, double)
 		float weight =5.6F;
-		System.out.printf("The bad of rice was %.1fkg",weight);
+		System.out.printf("The bad of rice was %.1fkg%n",weight);
 		
 		double acctBalance = 487575.94747;
 		System.out.printf("Your account balance is %c%.2f %n",'$',acctBalance);
